@@ -1,0 +1,51 @@
+{
+  "squares": [
+    { "name": "school",
+      "color": "#68adb4",
+      "links": [
+        { "name": "Canvas", "url": "https://ufl.instructure.com/" },
+        { "name": "Leadership", "url": "https://ufl.instructure.com/courses/416942" },
+        { "name": "Innovation", "url": "https://ufl.instructure.com/courses/420657" },
+        { "name": "HW Security", "url": "https://ufl.instructure.com/courses/420316" },
+        { "name": "SOC", "url": "https://ufl.instructure.com/courses/425728" }
+      ]
+    },
+    { "name": "media",
+      "color": "#dfddc8",
+      "links": [
+        { "name": "Youtube", "url": "https://www.youtube.com/" },
+        { "name": "Prime Video", "url": "https://www.amazon.com/Amazon-Video/b?ie=UTF8&node=2858778011" },
+        { "name": "Meal Time Videos", "url": "https://www.reddit.com/r/mealtimevideos/" },
+        { "name": "Lo-Fi Hip-Hop", "url": "https://www.youtube.com/watch?v=5qap5aO4i9A" }
+      ]
+    },
+    { "name": "social",
+      "color": "#feceb2",
+      "links": [
+        { "name": "Facebook", "url": "https://www.facebook.com/" }
+      ]
+    },
+    {
+      "name": "others",
+      "color": "#ef9191",
+      "links": [
+        {"name": "Amazon", "url": "https://www.amazon.com/"},
+        {"name": "Lab Meeting", "url": "https://ufl.zoom.us/j/389893211"}
+      ]
+    }
+  ],
+  "searchEngine":"Google",
+  "user": "",
+  "disableMessage": true,
+  "disableDate": false,
+  "disableSearchBar": true,
+  "disable24Hour": true,
+  "disableWeather": false,
+  "timeZone": "America/New_York",
+  "weatherConf": {
+    "location": "Gainesville Florida",
+    "unit": "fah"
+  },
+  "settingsIcon": false
+}
+
